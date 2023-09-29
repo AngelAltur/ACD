@@ -112,7 +112,7 @@ class fileXML {
  *
  * @author thest
  */
-public class modulesXML {
+public class MiguelAngelAlturGallegoXML {
 
     /**
      *
